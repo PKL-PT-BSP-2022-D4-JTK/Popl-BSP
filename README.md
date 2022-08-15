@@ -135,13 +135,13 @@ Install :
    ```sh
    https://github.com/PKL-PT-BSP-2022-D4-JTK/Popl-BSP.git
    ```
-2. Create .env file and put this
+2. Create .env file on server folder and put this
    ```sh
-    DB_USER= {your db user }
-    DB_HOST= {your host }
-    DB_DATABASE= {your db database }
-    DB_PASSWORD= {your db password }
-    DB_PORT= { your db port }
+   DB_USER= { your db user }
+   DB_HOST= { your host }
+   DB_DATABASE= { your db database }
+   DB_PASSWORD= { your db password }
+   DB_PORT= { your db port }
    ```
 4. Open two terminals to the project folder, then:
     ```sh
@@ -222,8 +222,9 @@ Project Group: PKL PT BSP - D4 JTK POLBAN - 2022
 
 Members:
 
+* [Alex Sinaga - 191524033](https://github.com/AlexSinaga)
 * [Putri Syalwa Abdullah - 191524054](https://github.com/putrisylw)
-* [Johan Hansel Salusu - 1915240xx](https://github.com/xxx)
+* [Johan Hansel Salusu - 191524046](https://github.com/xxx)
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
